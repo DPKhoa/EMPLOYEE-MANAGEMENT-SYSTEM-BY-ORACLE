@@ -1,0 +1,4 @@
+Phân tích hiện trạng vẽ database
+thiết kế database như thế nào 
+thiết lập ràng buộc PR FK
+bao nhiêu trigger , view , store, function phục vụ cho việc gì ý nghĩa 

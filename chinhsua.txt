@@ -1,0 +1,12 @@
+quan hệ bảng nhân viên với bản hệ số là nhiều nhiều 
+có thuộc tính là thâm niên
+tạo thêm bảng chuyên môn, bảng học vấn 
+bổ sung thuộc tinh trưởng phòng vào bảng phòng ban 
+mô tả công viec nên bỏ vào bảng hợp đồng
+thêm bảng loại nhân viên , loại hợp đồng
+chấm công , chấm the0 ngày, dùng group by theo tháng 
+count ngày nghi có phép, k phép ròi nhét vào store
+bỏ bảng nhà tập thể tạo bảng làm thêm có 2 loại, làm thêm ngày thường , làm thêm ngày thường , làm thêm cuối tuần , làm thêm buổi đêm
+tạo bảng tạm ứng  , bảng thanh toán lương sẽ trừ tiền đã tạm ứng/nhân viên đó trong 1 tháng phải tạm ứng giới hạn bao nhiêu lần với cái số tiền tạm ứng không được quá bao nhiều >=5000000
+
+tạo user kế toán, quản lý đc xem những gì và làm gì ?
